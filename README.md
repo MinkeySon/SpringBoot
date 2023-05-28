@@ -1,1 +1,1 @@
-# SpringBoot 공부 Repository입니다 😉
+# SpringBoot 공부 내용입니다 😉
